@@ -35,10 +35,6 @@ def initial_round
    sum
   end
 
-def card_total
-  
-end
-
 def hit?(card_total)
   # code hit? here
      prompt_user 
